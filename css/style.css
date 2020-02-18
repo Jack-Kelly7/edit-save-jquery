@@ -1,0 +1,24 @@
+button {
+    background-color: transparent;
+    border: none;
+}
+
+#edit-btn {
+    background-image: url('../img/edit-icon.png');
+    background-size: 64px;
+    height: 64px;
+    width: 64px;
+}
+
+#save-btn {
+    background-image: url('../img/save-icon.png');
+    background-size: 64px;
+    height: 64px;
+    width: 64px;
+}
+
+#formText {
+    border: 3px solid black;
+    margin: auto;
+    min-height: 100px;
+}
